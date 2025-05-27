@@ -111,7 +111,7 @@
 
 ## star 趋势图
 
-[![Star History Chart](https://api.star-history.com/svg?repos=freestylefly/tupianbiaozhu&type=Date)](https://star-history.com/#freestylefly/tupianbiaozhu&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=freestylefly/mcp-server-weread&type=Date)](https://star-history.com/#freestylefly/mcp-server-weread&Date)
 
 ## 公众号
 
